@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Makhsodur Rahman
+### Hi there 👋
 #### I am Software Developoer
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MakhsodurRahman&count_private=true)
