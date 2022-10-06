@@ -1,7 +1,7 @@
 ### Hi there 👋
 #### I am Software Developoer
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MakhsodurRahman&count_private=true)
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MakhsodurRahman&count_private=true)-->
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=MakhsodurRahman) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MakhsodurRahman)](https://github.com/anuraghazra/github-readme-stats)<br><br>
 
